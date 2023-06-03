@@ -9,6 +9,10 @@
 		{
 			"name": "vscode_first_work-1",
 			"path": "vscode_first_work-1"
+		},
+		{
+			"name": "Git-Files",
+			"path": "../../Git Files/Git-Files"
 		}
 	],
 	"settings": {}
